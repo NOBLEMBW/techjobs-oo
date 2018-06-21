@@ -2,6 +2,7 @@ package org.launchcode.models.data;
 
 import javafx.geometry.Pos;
 import org.launchcode.models.*;
+import org.launchcode.models.forms.JobForm;
 
 import java.util.ArrayList;
 import java.util.HashMap;
